@@ -21,6 +21,11 @@
             bindings = <&kp RIGHT_WIN>;
             key-positions = <39 40>;
         };
+
+        esc {
+            bindings = <&kp ESCAPE>;
+            key-positions = <0 1>;
+        };
     };
 
     keymap {
